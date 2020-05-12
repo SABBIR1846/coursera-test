@@ -1,0 +1,72 @@
+1.Question 1
+
+How does a web server recognize a particular web browser?
+ans:cookis
+The Web is a stateful system. ans :TRUE
+
+The browser does not always maintain a connection to the server. ans: F
+
+Cookies can be made to last for how long? ans : ANY
+
+If a browser is contacting a server for the very first time, the browser does not send cookies in its first request.
+ans:TRUE
+6. Sessions are server controlled and are protected from the users direct access to it.
+
+ans: True
+
+7.session_start() is used to
+
+ans: Make a new sessiON
+
+Restore an old session
+
+8.session_start() can be placed anywhere in the php file.
+ans: FALSE
+
+The [_____] function is used to remove a session.
+ans: DESTROY
+
+10.Question 
+
+$_SESSION is a
+ans: ALL OF 
+
+11.Question 
+
+PHP applications can make changes to the $_SESSION variable.
+
+True
+12.Question 
+
+End users can make changes to the $_SESSION variable.
+
+
+
+ans:False
+
+13.Question 
+
+Generally, if there are no cookies for a web site in the browser, PHP will make a new session as soon as the user tries to access the url.
+
+True
+
+14.Question 
+
+ans:When do session cookies expire?
+when browser is close
+
+15.Question 
+
+Where are non-session cookies stored?
+ans:seprte cloud
+
+16.Question
+
+What is the typical session identifier?
+ans:A large random number by server
+
+17.Question 
+
+If a browser does not support cookies, how can PHP maintain a session?
+ ans: by including the session  GET AND POST
+
