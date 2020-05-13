@@ -1,0 +1,68 @@
+1.Question 1
+
+Refreshing the page after a [_____] request might cause unintended consequences.
+log in?
+ ans:post
+
+
+2.Question 2
+
+Double POST problems can be solved by:
+
+log in?
+ ans:Redricting it to a url
+
+3.Question 3
+
+A simple rule for generating a server response is to never generate a page with HTML content when the server receives [_____] data.
+log in?
+ ans:post
+
+4.Question 4
+
+HTML pages can only be requested using GET request. 
+log in?
+ ans:FALSE
+
+5.Question 5
+
+Messages that show up once and are gone when you refresh the page are often called.
+
+ans :flash messsage
+
+6.Question 6
+
+What is the correct sequence to avoid double post?
+
+log in?
+ ans:post-red-get
+
+7.Question 7
+
+The PHP header() function affects which part of the request / response cycle?
+
+log in?
+ ans:response header
+
+8.Question 8
+
+In the request/response cycle, when the browser sends form data using a POST request, how are the names and values sent to the server?
+
+log in?
+ ans:the server makes
+
+9.Question 9
+
+Having a session means that the user is logged in.
+log in?
+ ans:FALSE
+
+10.Question 10
+
+Typically sessions are not established until after the user logs in successfully.
+log in?
+ ans:FALSE
+
+What data changes when you successfully log in?
+ ans: data in the session
+
